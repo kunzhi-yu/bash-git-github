@@ -1,15 +1,13 @@
 ---
-marp: true
+marp: yes
 theme: uncover
 _class: invert
-paginate: true
-
+paginate: yes
 style: |
-    img[alt~="center"] {
-      display: block;
-      margin: 0 auto;
-    }
-
+  img[alt~="center"] {
+    display: block;
+    margin: 0 auto;
+output: pdf_document
 ---
 <style>
     p {
