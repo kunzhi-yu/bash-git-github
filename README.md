@@ -46,20 +46,20 @@ The workshop will be held over three weeks, three days a week. Two of the three 
 | Lesson | Topic                                                                                        | Assignments      | Resources  |
 |--------|----------------------------------------------------------------------------------------------|------------------|------------|
 | 1      | Unix Shell I <br>(introducing the Shell, introductory commands, files and directories)       | [Assignment 1]() | [Slides]() |
-| 2      | Unix Shell II<br>(input/output and pipes/filters)                                            |                  |            |
-| 3      | Unix Shell III<br>(shell scripts, shell functions, parameters, flow control)                 |                  |            |
-| 4      | Version Control and GitHub I<br>(introducing version control and GitHub, basic Git commands) |                  |            |
-| 5      | Version Control and GitHub II<br>(remote repositories; branching)                            |                  |            |
-| 6      | Version Control and GitHub III <br>(collaborating, dealing with conflicts)                   |                  |            |
-| 7      | Problem solve, reproducibility, ethics, inequity                                             |                  |            |
-| 8      | Professional Skills - Industry Case Study                                                    |                  |            |
-| 9      | Data Science Foundations - Review and Practice                                               |                  |            |
+| 2      | Unix Shell II<br>(input/output and pipes/filters)                                            | [Assignment 1]() | [Slides]() |
+| 3      | Unix Shell III<br>(shell scripts, shell functions, parameters, flow control)                 | [Assignment 1]() | [Slides]() |
+| 4      | Version Control and GitHub I<br>(introducing version control and GitHub, basic Git commands) | [Assignment 2]() | [Slides]() |
+| 5      | Version Control and GitHub II<br>(remote repositories; branching)                            | [Assignment 2]() | [Slides]() |
+| 6      | Version Control and GitHub III <br>(collaborating, dealing with conflicts)                   | [Assignment 2]() | [Slides]() |
+| 7      | Problem solve, reproducibility, ethics, inequity                                             | [Assignment 2]() <br> [Assignment 2]() | [Slides]() |
+| 8      | Professional Skills - Industry Case Study                                                    | [Assignment 2]() | [Slides]() |
+| 9      | Data Science Foundations - Review and Practice                                               |                  | [Slides]() |
 
 ## Marking Scheme
 | Assessment       | Weight | Description | Due Date |
 |------------------|--------|-------------|----------|
 | [Assignment 1]() |        |             |          |
-| Assignment 2]()  |        |             |          |
+| [Assignment 2]() |        |             |          |
 |                  |        |             |          |
 
 ## Policies
